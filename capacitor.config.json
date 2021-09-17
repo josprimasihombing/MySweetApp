@@ -1,0 +1,6 @@
+{
+  "appId": "com.cermati.apptest",
+  "appName": "mysweetapp",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}

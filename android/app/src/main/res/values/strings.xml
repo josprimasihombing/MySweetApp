@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">mysweetapp</string>
+    <string name="title_activity_main">mysweetapp</string>
+    <string name="package_name">com.cermati.apptest</string>
+    <string name="custom_url_scheme">com.cermati.apptest</string>
+</resources>
